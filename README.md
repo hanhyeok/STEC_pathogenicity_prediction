@@ -20,10 +20,6 @@ Furthermore, the SVM model effectively differentiated the pathogenic potentials 
 These results suggest that the SVM model is a more reliable and broadly applicable method to evaluate 
 the pathogenic potential of STEC isolates compared with conventional methods.
 
-### Methods
-Sequence alignments with the reference sequences were conducted by using DIAMOND, a sequence alignment tool (45). 
-snakemake
-Scikit-learn python packag
 ------------
 
 ### Docker - OSX/Linux/Windows/Cloud
