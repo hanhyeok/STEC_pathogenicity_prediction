@@ -36,8 +36,3 @@ To use it, you would use a command such as this (substitute the directory path t
 (base) $ conda run -n snakemake snakemake -q --cores N
 ```
 If you run again the pipeline, please remove the **README.md** file at the 'result' folder and run it again.
-
-
-
-### Further Information
-Please feel free to contact me: hanhyeok.im@gmail.com
