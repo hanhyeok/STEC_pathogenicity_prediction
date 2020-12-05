@@ -19,6 +19,7 @@ the isolates with the history of outbreaks, and the isolates that cannot be asse
 Furthermore, the SVM model effectively differentiated the pathogenic potentials of the isolates at a finer resolution.
 These results suggest that the SVM model is a more reliable and broadly applicable method to evaluate 
 the pathogenic potential of STEC isolates compared with conventional methods.
+
 ------------
 
 ### Docker - OSX/Linux/Windows/Cloud
