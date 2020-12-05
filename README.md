@@ -10,7 +10,7 @@ Byoung Sik Kim<sup>c</sup>, Sang Ho Choi<sup>a,b,1</sup>
 
 ### Summary 
 Here, we developed the model using support vector machine (SVM) algorithm, the SVM model, to predict the 
-pathogenicity of Shiga toxin-producing Escherichia coli (STEC) isolates using their WGS data. 
+pathogenicity of Shiga toxin-producing <i>Escherichia coli</i> (STEC) isolates using their WGS data. 
 The input dataset for the ML models was generated using distinct gene repertories from
 positive (pathogenic) and negative (nonpathogenic) control groups where each STEC isolate was designated
 based on the source attribution, the relative risk potential of the isolation sources.
