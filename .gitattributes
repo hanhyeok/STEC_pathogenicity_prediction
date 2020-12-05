@@ -1,3 +1,6 @@
-STEC_prediction/threshold_cluster.pickle filter=lfs diff=lfs merge=lfs -text
+*.pickle filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
 STEC_prediction/PIRATE_scoary_ver3_input.pickle filter=lfs diff=lfs merge=lfs -text
+STEC_prediction/trained_SVM_model.joblib filter=lfs diff=lfs merge=lfs -text
+STEC_prediction/threshold_cluster.pickle filter=lfs diff=lfs merge=lfs -text
 STEC_prediction/*.joblib filter=lfs diff=lfs merge=lfs -text
