@@ -6,7 +6,7 @@ Byoung Sik Kim<sup>c</sup>, Sang Ho Choi<sup>a,b,d,1</sup>
 <sup>a</sup> National Research Laboratory of Molecular microbiology and Toxicology<br>
 <sup>b</sup> Department of Agricultural Biotechnology and Center for Food Safety and Toxicology, Seoul National University, 08826 Seoul, Republic of Korea<br>
 <sup>c</sup> Department of Food Science and Engineering, Ewha Womans University, 03760 Seoul, Republic of Korea<br>
-<sup>d</sup> Center for Food and Bioconvergence, Seoul National University, 08826 Seoul, Korea<br>
+<sup>d</sup> Center for Food and Bioconvergence, Seoul National University, 08826 Seoul, Republic of Korea<br>
 <sup>1</sup> Correspondence: choish@snu.ac.kr<br>
 
 ### Summary 
